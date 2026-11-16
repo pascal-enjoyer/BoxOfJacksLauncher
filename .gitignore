@@ -1,3 +1,9 @@
 /EncryptedGames/
 /DevTool/
 *.key
+/EncryptedGames.downloads/
+/EncryptedGames.downloading/
+/JackboxLibrary/
+/JackboxLibrary.installing/
+/JackboxFreeLauncher.Core.exe
+/.library*
