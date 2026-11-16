@@ -7,3 +7,5 @@
 /JackboxLibrary.installing/
 /JackboxFreeLauncher.Core.exe
 /.library*
+/CatalogPackages/
+/.game-downloads/
